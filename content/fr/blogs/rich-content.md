@@ -40,7 +40,7 @@ Hugo est livré avec plusieurs [Shortcodes Intégrés](https://gohugo.io/content
 {{</* gist spf13 7896402 */>}}
 ```
 <br>
-{{< gist spf13 7896402 >}}
+<a href="https://gist.github.com/spf13/7896402">Voir le Gist</a>
 <br>
 
 ---
