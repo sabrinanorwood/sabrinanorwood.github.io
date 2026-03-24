@@ -46,7 +46,6 @@ markup:
       unsafe: true
 
 Menus:
-  main:
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -359,11 +358,8 @@ params:
     recentPosts:
       enable: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/sabrinanorwood
+      linkedin: https://www.linkedin.com/in/sabrina-norwood/
 
   # List pages like blogs and posts
   listPages:
