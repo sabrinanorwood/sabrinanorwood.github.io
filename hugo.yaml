@@ -381,7 +381,7 @@ params:
     articleList: "Jan 2, 2006"
     articleRecent: "Jan 2, 2006"
 
-  customScripts: -|
+  customScripts: |
     <style>
       #about { padding-top: 40px !important; }
     </style>
